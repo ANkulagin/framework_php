@@ -9,7 +9,7 @@ class ErrorHandler
 
     public function __construct()
     {
-        // https://habr.com/ru/post/161483/
+
         if (DEBUG) {
             error_reporting(-1);
         } else {

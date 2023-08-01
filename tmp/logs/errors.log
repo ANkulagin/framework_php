@@ -31,3 +31,23 @@
 =================
 [2023-07-31 17:01:28] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Router.php | Строка: 38
 =================
+[2023-08-01 10:13:07] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: C:\OSPanel\domains\new-ishop.Ioc\app\controllers\MainController.php | Строка: 10
+=================
+[2023-08-01 12:59:11] Текст ошибки: не найден шаблон C:\OSPanel\domains\new-ishop.Ioc/app/views/layouts/.php | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\View.php | Строка: 39
+=================
+[2023-08-01 13:01:48] Текст ошибки: не найден шаблон C:\OSPanel\domains\new-ishop.Ioc/app/views/layouts/.php | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\View.php | Строка: 39
+=================
+[2023-08-01 13:01:50] Текст ошибки: не найден шаблон C:\OSPanel\domains\new-ishop.Ioc/app/views/layouts/.php | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\View.php | Строка: 39
+=================
+[2023-08-01 13:02:45] Текст ошибки: не найден шаблон C:\OSPanel\domains\new-ishop.Ioc/app/views/layouts/.php | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\View.php | Строка: 39
+=================
+[2023-08-01 13:04:34] Текст ошибки: не найден шаблон C:\OSPanel\domains\new-ishop.Ioc/app/views/layouts/.php | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\View.php | Строка: 39
+=================
+[2023-08-01 13:04:35] Текст ошибки: не найден шаблон C:\OSPanel\domains\new-ishop.Ioc/app/views/layouts/.php | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\View.php | Строка: 39
+=================
+[2023-08-01 13:04:35] Текст ошибки: не найден шаблон C:\OSPanel\domains\new-ishop.Ioc/app/views/layouts/.php | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\View.php | Строка: 39
+=================
+[2023-08-01 13:04:35] Текст ошибки: не найден шаблон C:\OSPanel\domains\new-ishop.Ioc/app/views/layouts/.php | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\View.php | Строка: 39
+=================
+[2023-08-01 13:05:48] Текст ошибки: не найден шаблон C:\OSPanel\domains\new-ishop.Ioc/app/views/layouts/.php | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\View.php | Строка: 39
+=================
