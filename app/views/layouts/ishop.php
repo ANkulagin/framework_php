@@ -12,6 +12,7 @@ use wfm\View;
     <title> <?= $this->getMeta() ?></title>
 </head>
 <body>
-    <?= $this->content ?>
+<?= $this->content ?>
+<?php $this->getDbLogs(); ?>
 </body>
 </html>

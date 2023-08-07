@@ -51,3 +51,193 @@
 =================
 [2023-08-01 13:05:48] Текст ошибки: не найден шаблон C:\OSPanel\domains\new-ishop.Ioc/app/views/layouts/.php | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\View.php | Строка: 39
 =================
+[2023-08-06 20:43:37] Текст ошибки: require_once(C:\OSPanel\domains\new-ishop.Ioc/config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:46:25] Текст ошибки: Undefined constant "wfm\DIR" | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:47:43] Текст ошибки: require_once(C:\OSPanel\domains\new-ishop.Ioc/config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:47:44] Текст ошибки: require_once(C:\OSPanel\domains\new-ishop.Ioc/config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:47:45] Текст ошибки: require_once(C:\OSPanel\domains\new-ishop.Ioc/config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:47:45] Текст ошибки: require_once(C:\OSPanel\domains\new-ishop.Ioc/config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:49:45] Текст ошибки: require_once(C:\OSPanel\domains\new-ishop.Ioc/config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 13
+=================
+[2023-08-06 20:55:12] Текст ошибки: Undefined constant "wfm\DIR" | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 13
+=================
+[2023-08-06 20:55:13] Текст ошибки: Undefined constant "wfm\DIR" | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 13
+=================
+[2023-08-06 20:55:19] Текст ошибки: Undefined constant "wfm\DIR" | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 13
+=================
+[2023-08-06 20:55:19] Текст ошибки: Undefined constant "wfm\DIR" | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 13
+=================
+[2023-08-06 20:55:19] Текст ошибки: Undefined constant "wfm\DIR" | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 13
+=================
+[2023-08-06 20:55:19] Текст ошибки: Undefined constant "wfm\DIR" | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 13
+=================
+[2023-08-06 20:55:20] Текст ошибки: Undefined constant "wfm\DIR" | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 13
+=================
+[2023-08-06 20:55:20] Текст ошибки: Undefined constant "wfm\DIR" | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 13
+=================
+[2023-08-06 20:55:20] Текст ошибки: Undefined constant "wfm\DIR" | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 13
+=================
+[2023-08-06 20:55:20] Текст ошибки: Undefined constant "wfm\DIR" | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 13
+=================
+[2023-08-06 20:55:20] Текст ошибки: Undefined constant "wfm\DIR" | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 13
+=================
+[2023-08-06 20:55:30] Текст ошибки: require_once(/config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 13
+=================
+[2023-08-06 20:55:30] Текст ошибки: require_once(/config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 13
+=================
+[2023-08-06 20:55:30] Текст ошибки: require_once(/config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 13
+=================
+[2023-08-06 20:55:30] Текст ошибки: require_once(/config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 13
+=================
+[2023-08-06 20:58:10] Текст ошибки: require_once(config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 20:58:11] Текст ошибки: require_once(config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 20:58:12] Текст ошибки: require_once(config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 20:58:12] Текст ошибки: require_once(config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 20:58:24] Текст ошибки: require_once(config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:58:39] Текст ошибки: require_once(config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:58:39] Текст ошибки: require_once(config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:58:40] Текст ошибки: require_once(config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:58:40] Текст ошибки: require_once(config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:58:40] Текст ошибки: require_once(config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:58:40] Текст ошибки: require_once(config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:58:41] Текст ошибки: require_once(config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:58:41] Текст ошибки: require_once(config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:58:42] Текст ошибки: require_once(config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:58:48] Текст ошибки: require_once(/config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:58:49] Текст ошибки: require_once(/config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:58:49] Текст ошибки: require_once(/config/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:59:05] Текст ошибки: require_once(C:\OSPanel\domains\new-ishop.Iocconfig/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:59:05] Текст ошибки: require_once(C:\OSPanel\domains\new-ishop.Iocconfig/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:59:06] Текст ошибки: require_once(C:\OSPanel\domains\new-ishop.Iocconfig/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:59:06] Текст ошибки: require_once(C:\OSPanel\domains\new-ishop.Iocconfig/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:59:51] Текст ошибки: require_once(C:\OSPanel\domains\new-ishop.Iocconfig/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:59:52] Текст ошибки: require_once(C:\OSPanel\domains\new-ishop.Iocconfig/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:59:53] Текст ошибки: require_once(C:\OSPanel\domains\new-ishop.Iocconfig/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:59:54] Текст ошибки: require_once(C:\OSPanel\domains\new-ishop.Iocconfig/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 20:59:55] Текст ошибки: require_once(C:\OSPanel\domains\new-ishop.Iocconfig/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 21:00:00] Текст ошибки: require_once(C:\OSPanel\domains\new-ishop.Iocconfig/config_db.php): Failed to open stream: No such file or directory | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 12
+=================
+[2023-08-06 21:00:04] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:15] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:15] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:16] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:16] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:16] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:27] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:27] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:28] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:28] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:28] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:29] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:29] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:29] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:29] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:29] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:30] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:30] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-06 21:01:30] Текст ошибки: no connect | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\Db.php | Строка: 15
+=================
+[2023-08-07 09:50:31] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.names' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:50:33] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.names' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:50:34] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.names' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:50:36] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.names' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:50:37] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.names' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:50:38] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.names' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:50:39] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.names' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:50:39] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.names' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:50:40] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.names' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:50:59] Текст ошибки: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:51:00] Текст ошибки: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:51:00] Текст ошибки: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:51:02] Текст ошибки: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:51:03] Текст ошибки: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:51:03] Текст ошибки: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:51:04] Текст ошибки: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:51:06] Текст ошибки: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:51:07] Текст ошибки: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:51:09] Текст ошибки: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:51:09] Текст ошибки: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:51:10] Текст ошибки: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:51:18] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.names' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 09:51:24] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.names' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-08-07 10:32:27] Текст ошибки: Undefined variable $names | Файл: C:\OSPanel\domains\new-ishop.Ioc\app\views\Main\index.php | Строка: 7
+=================
+[2023-08-07 11:09:22] Текст ошибки: syntax error, unexpected token "}" | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\View.php | Строка: 58
+=================
+[2023-08-07 11:09:23] Текст ошибки: syntax error, unexpected token "}" | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\View.php | Строка: 58
+=================
+[2023-08-07 11:09:23] Текст ошибки: syntax error, unexpected token "}" | Файл: C:\OSPanel\domains\new-ishop.Ioc\vendor\wfm\View.php | Строка: 58
+=================

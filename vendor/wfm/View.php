@@ -2,6 +2,8 @@
 
 namespace wfm;
 
+use RedBeanPHP\R;
+
 class View
 {
     public string $content = '';
@@ -46,6 +48,16 @@ class View
         $out .='<meta name="description" content="'.htmlspecialchars( $this->meta['description']) .'">' .PHP_EOL;
         $out .='<meta name="keywords" content="'. htmlspecialchars($this->meta['keywords']) .'">' .PHP_EOL;
         return $out;
+    }
+    public  function getDbLogs(){
+        if (DEBUG){
+            $logs =R::getDatabaseAdapter()
+                ->getDatabase()
+                ->getLogger();
+            $logs = array_merge($logs->grep('SELECT'),$logs->grep('select'),
+                $logs->grep('INSERT'),$logs->grep('UPDATE'),$logs->grep('DELETE'));
+            debug($logs);
+        }
     }
 }
 
